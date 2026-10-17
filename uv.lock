@@ -6,6 +6,17 @@ resolution-markers = [
     "python_full_version < '3.14'",
 ]
 
+[manifest]
+members = [
+    "agenticlanggraph",
+    "langchain-practice",
+]
+
+[[package]]
+name = "agenticlanggraph"
+version = "0.1.0"
+source = { editable = "AgenticAIWorkspace/AgenticLanggraph" }
+
 [[package]]
 name = "aiohappyeyeballs"
 version = "2.7.1"
