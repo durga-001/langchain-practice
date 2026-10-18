@@ -7,7 +7,14 @@ authors = [
     { name = "Kanak", email = "rathorkanak03@gmail.com" }
 ]
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+    "ipykernel>=7.4.0",
+    "langchain>=1.4.5",
+    "langchain-groq>=1.1.3",
+    "langgraph>=1.2.15",
+    "langsmith>=0.14.8",
+    "python-dotenv>=1.2.4",
+]
 
 [project.scripts]
 agenticlanggraph = "agenticlanggraph:main"
