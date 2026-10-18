@@ -1,0 +1,5 @@
+[33m7269f7d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m execute: basic chatbot using langgraph
+[33m430534b[m feat: uv setup
+[33ma4d74e5[m learn: human in the loop middleware
+[33me036015[m learn: summarization middleware based on the length of the message
+[33m32823f3[m learn: summarization middleware based on length of the message
