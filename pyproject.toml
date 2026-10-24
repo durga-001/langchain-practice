@@ -21,4 +21,5 @@ package = false
 [tool.uv.workspace]
 members = [
     "AgenticAIWorkspace/AgenticLanggraph",
+    "AgenticAIWorkspace/mcpdemolangchain",
 ]
