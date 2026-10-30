@@ -22,4 +22,5 @@ package = false
 members = [
     "AgenticAIWorkspace/AgenticLanggraph",
     "AgenticAIWorkspace/mcpdemolangchain",
+    "AgenticAIWorkspace/ytrag",
 ]
