@@ -1,0 +1,5 @@
+[33m1c3b742[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m fix: api error
+[33m3f705dd[m execute: vectorstore and data loader
+[33m747a205[m[33m ([m[1;31morigin/main[m[33m)[m learn: integrating vectorDB context pipeline with LLM output
+[33mab8818b[m execute: retrieval rag pipelines
+[33mc946bc8[m learn: rag pipeline+vectorstore
